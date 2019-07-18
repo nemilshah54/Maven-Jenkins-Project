@@ -7,7 +7,7 @@ pipeline {
         
         stage('Compile') {
             steps {
-                at "mvn compile" 
+                bat "mvn compile" 
             }
         }
         
