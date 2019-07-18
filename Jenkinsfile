@@ -1,5 +1,3 @@
-
-
 pipeline {
 
     agent any
@@ -47,3 +45,4 @@ pipeline {
     }
 
 }
+
