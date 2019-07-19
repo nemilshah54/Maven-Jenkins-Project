@@ -6,5 +6,10 @@ public class App {
 	{
 		return x+y;
 	}
+	
+	public String getmyName()
+	{
+		return "Nemil";
+	}
 
 }
