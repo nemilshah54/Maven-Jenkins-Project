@@ -27,5 +27,11 @@ public class App {
 	{
 		return "Mathematical Calculations";
 	}
+	
+
+	public String getmyName()
+	{
+		return "Nemil";
+	}
 
 }
