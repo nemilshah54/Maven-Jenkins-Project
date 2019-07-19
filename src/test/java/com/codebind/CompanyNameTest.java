@@ -12,7 +12,7 @@ public class CompanyNameTest {
 			
 			App junit2 = new  App();
 			String result = junit2.getWorkCompany();
-			assertEquals("CVS Health.", result);
+			assertEquals("CVS Health", result);
 		} 
 
 }
