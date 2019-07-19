@@ -35,11 +35,8 @@ public class App {
 	
 	public String getCollegeName()
 	{
-		return "UIC";
+		return 2;
 	}
-	
-	
-	
 	
 	
 
