@@ -27,5 +27,20 @@ public class App {
 	{
 		return "Mathematical Calculations";
 	}
+	
+	public String getWorkCompany()
+	{
+		return "CVS Health";
+	}
+	
+	public String getCollegeName()
+	{
+		return "UIC";
+	}
+	
+	
+	
+	
+	
 
 }
