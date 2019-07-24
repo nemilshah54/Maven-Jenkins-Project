@@ -46,7 +46,7 @@ pipeline {
 
             steps {
 
-                bat "mvn Deploy"
+                bat "mvn deploy"
 
             }
 
