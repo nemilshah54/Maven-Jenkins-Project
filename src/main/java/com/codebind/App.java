@@ -9,7 +9,7 @@ public class App {
 	
 	public String getmyName()
 	{
-		return "Nemil";
+		return 2;
 	}
 
 }
